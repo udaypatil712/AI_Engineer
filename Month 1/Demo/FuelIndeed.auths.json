@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "695964000d908d620033bc3d"
+  },
+  "name": "PatilUday",
+  "email": "udaypatil18vk@gmail.com",
+  "password": "$2b$10$zpmV2XYBK3fk6YslrtsFEuprSVyWMYIZKBzf5o4qWm6NPXSXPCCI6",
+  "role": "user",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-03T18:46:24.951Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-03T18:48:13.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6959655a0d908d620033bc4b"
+  },
+  "name": "Uday",
+  "email": "patiluday1807@gmail.com",
+  "password": "$2b$10$t70P24ya7XdGn5IqWVodIuJstceG23n2JGHmICY6qggtdos/4LaKa",
+  "role": "fuelStation",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-03T18:52:10.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-05T19:34:52.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695984df7fc01ec74a460f79"
+  },
+  "name": "Rupesh",
+  "email": "rupeshpatil4473@gmail.com",
+  "password": "$2b$10$5QUQVbiYf5KK/qZZ9alheOlHsMr2voD3H3jA/dfDuIUDCgUe7207K",
+  "role": "fuelStation",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-03T21:06:39.168Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-03T21:18:10.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69639099e4b7e36e3d809e29"
+  },
+  "name": "patil",
+  "email": "patiluday7122003@gmail.com",
+  "password": "$2b$10$p.AKDBtWYUNH9uBKw3QYh.jlbMIOcCW8QfzxeGNwpJwwmLS6A4K8.",
+  "role": "admin",
+  "isProfileCompleted": false,
+  "createdAt": {
+    "$date": "2026-01-11T11:59:21.990Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-11T11:59:21.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6967eb4db39061275d280d7c"
+  },
+  "name": "uday",
+  "email": "suhel@gmail.com",
+  "password": "$2b$10$A2UBQ/Czskzj86Gp14.EpOLT0xw.r6wQyg7oOoSekZESKWE6Kzrey",
+  "role": "user",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-14T19:15:25.205Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T18:08:04.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6967ec0eb39061275d280d83"
+  },
+  "name": "Uday Ramakant Patil",
+  "email": "patiluday261@gmail.com",
+  "password": "$2b$10$3ZFYx/JWfjeReBFfbk80xOsBiO0JMEgCb0ysC//8GxQBtokYOYYjC",
+  "role": "fuelStation",
+  "isProfileCompleted": false,
+  "createdAt": {
+    "$date": "2026-01-14T19:18:38.109Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-14T19:18:38.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696bef51656e5bd5e9fa1bc7"
+  },
+  "name": "Pratik",
+  "email": "vivekpatilvk18@gmail.com",
+  "password": "$2b$10$tpP5AMGL2nmz..fSbN9DQ.YAMSf6IEtSNapop0L.0ErrM2S2WqAwa",
+  "role": "user",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-17T20:21:37.706Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T14:55:33.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69710b6432d705a8ec9f46b0"
+  },
+  "name": "Uday",
+  "email": "delivery@gmail.com",
+  "password": "$2b$10$RSRd9IYwmwpnOsn4pMUJlOdPhpY7pqZLYmdP0mR1X4qalwaOkGiHy",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-21T17:22:44.584Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T07:36:19.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6972323f3bd0e01a98acc096"
+  },
+  "name": "Uday Patil",
+  "email": "delivery2@gmail.com",
+  "password": "$2b$10$xE4BeU.450DlTAox9Nl6hejQPKVUFHLaUggasFfyeJzUuVmUCsAiS",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-22T14:20:47.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T07:47:12.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6973700947d679fb9a1e2d5d"
+  },
+  "name": "Vivek",
+  "email": "delivery3@gmail.com",
+  "password": "$2b$10$Upk3YJCN9qN8Jh5w3lSmYOAYQuZVaUy37JDevceu40wjZ3WwOEzdW",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-23T12:56:41.735Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T12:57:23.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6973c792eea0c12825c94cf1"
+  },
+  "name": "Patil",
+  "email": "delivery4@gmail.com",
+  "password": "$2b$10$FAzvenKFfK0aURZuRHlg3e1FSkg4K76QZOhnwdWcAOctfAYhEM1yS",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-23T19:10:10.685Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T19:18:09.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697682b4737344a2948cdc14"
+  },
+  "name": "sagar",
+  "email": "delivery5@gmail.com",
+  "password": "$2b$10$OSlE9Uk2FULmEfWSHliwyuEvc31Go8feUREtXkuMDQpOGpLwSq9Ta",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-25T20:53:08.289Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-25T20:58:52.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a416fa6608c91bbd51d0c"
+  },
+  "name": "John",
+  "email": "delivery6@gmail.com",
+  "password": "$2b$10$HAo4vVUUBDyNo0bHevI.LuN2HI5Xe1L0fcvVKjJ8RlAv2oCX.qMha",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:03:43.481Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:04:49.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a4255a6608c91bbd51d65"
+  },
+  "name": "Sameer",
+  "email": "delivery7@gmail.com",
+  "password": "$2b$10$SHgNACbmTQply6POpyOyyuyi15s/nFbb2NfgDT45fmGBcyZmL0p9u",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:07:33.147Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:08:40.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a4b7a29d9ef9ce43f7b49"
+  },
+  "name": "Aditya",
+  "email": "delivery8@gmail.com",
+  "password": "$2b$10$7S6uxIutTtDlQ9LGcE/FgeERMgnsDdfmtKgJnRN0ztbkW9WNWOapy",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:46:34.692Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:47:31.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a4bee29d9ef9ce43f7b62"
+  },
+  "name": "Ganesh",
+  "email": "delivery9@gmail.com",
+  "password": "$2b$10$26Ba.Y6IjoNBdNZnuw8h2.J8GqRsPvZINeUdU3mF7lgpGeTWB/wh.",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:48:30.161Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:49:17.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a4c5729d9ef9ce43f7b7d"
+  },
+  "name": "Mayur",
+  "email": "delivery10@gmail.com",
+  "password": "$2b$10$1Cq0jS/sGBD8W1X.OHNXIu30XH98EezFAjqBBKvg1Jljn0RkzBXNa",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:50:15.775Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:51:13.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a4cbc29d9ef9ce43f7b98"
+  },
+  "name": "Danish",
+  "email": "delivery11@gmail.com",
+  "password": "$2b$10$aIWxTQzVw0vWgIPxdXFYBOO5n6zu6v.qyCqeQc0dca7ZD82dNJxwO",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:51:56.963Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:52:39.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697a4d1b29d9ef9ce43f7bb4"
+  },
+  "name": "Vishal",
+  "email": "delivery12@gmail.com",
+  "password": "$2b$10$IeqGoujZGUphtN3ea5wY.udwqchA5YtwhE6dskorRUnQVK4aCDU0G",
+  "role": "deliveryPerson",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-28T17:53:31.213Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T17:54:08.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697b7e9363028d8468488531"
+  },
+  "name": "Vikrant",
+  "email": "delivery13@gmail.com",
+  "password": "$2b$10$VtqRFRp4fiN1ndJZQrykwOXx39./Y7OYt/vT6D3DdUavTcL0BCRPm",
+  "role": "deliveryPerson",
+  "isProfileCompleted": false,
+  "createdAt": {
+    "$date": "2026-01-29T15:36:51.915Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-29T15:36:51.915Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,17 @@
+{
+  "_id": {
+    "$oid": "6959655a0d908d620033bc4b"
+  },
+  "name": "Uday",
+  "email": "patiluday1807@gmail.com",
+  "password": "$2b$10$t70P24ya7XdGn5IqWVodIuJstceG23n2JGHmICY6qggtdos/4LaKa",
+  "role": "fuelStation",
+  "isProfileCompleted": true,
+  "createdAt": {
+    "$date": "2026-01-03T18:52:10.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-05T19:34:52.433Z"
+  },
+  "__v": 0
+}
